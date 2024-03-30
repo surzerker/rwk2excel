@@ -2,7 +2,7 @@
 // @name         RWK Map to Excel
 // @namespace    http://tampermonkey.net/
 // @version      1.4
-// @description  Tampermonkey userscript which adds a "Download as Excel" option to RWK maps pages. Approved by Glitchless for use on the map page.
+// @description  Tampermonkey userscript which adds a "Download Excel Spreadsheet" button to RWK maps pages. Approved by Glitchless for use on the map page.
 // @author       Surzerker (S2)
 // @match        https://rwk2.racewarkingdoms.com/msur.htm
 // @match        https://rwk2.racewarkingdoms.com/mdun.htm
