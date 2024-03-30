@@ -111,4 +111,4 @@ async function convertCanvasToExcelWithExcelJS() {
 }
 
 // Last but not least, we inject a "Download Excel Spreadsheet" button on the botton of the map page!
-document.querySelector("#ClickDiv").innerHTML+="<br>;<button onclick='convertCanvasToExcelWithExcelJS()'>Download Excel Spreadsheet</button><br>";
+document.querySelector("#ClickDiv").innerHTML+="<br><button onclick='convertCanvasToExcelWithExcelJS()'>Download Excel Spreadsheet</button><br>";
