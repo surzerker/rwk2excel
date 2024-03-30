@@ -45,7 +45,7 @@ These links lead to the exact copies of the libraries used by `rwk2excel`, allow
 
 ## Getting Started
 
-Once installed, the `rwk2excel` add-on will be available whenever you're navigating through Race War Kingdoms maps. Look for the "Export to Excel" button or similar interface elements added by the script to start exporting your maps.
+Once installed, the `rwk2excel` add-on will be available whenever you're navigating through Race War Kingdoms maps. Look for the "Downlaod Excel Spreadsheet" button added underneath the map.
 
 ## Support
 
