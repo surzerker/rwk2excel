@@ -35,6 +35,12 @@ To verify the integrity of the library sources included in the script, I provide
 
 These links lead to the exact copies of the libraries used by `rwk2excel`, allowing you to verify their authenticity and integrity.
 
+## Special Notes
+
+- **Glitchless Statement on Map Add-Ons:** Glitchless has stated, "You can run whatever addons you want on the RWK maps page, but be sure not to run anything on the actual RWK game page or you risk being banned for botting. We may provide similar features in the future, but at the time don't have any plans to." This means that while developing and using `rwk2excel`, we've made sure to align with the game's policies regarding add-ons.
+  
+- **Elevated Privileges:** Due to the need to bypass CORS policies for certain operations, this script requires elevated privileges. When you run the script for the first time (by visiting the map page after installing it), Tampermonkey will prompt you to allow these elevated privileges. You will need to click "Allow Always" or a similar option. This may occur immediately after installing the script through the URL method; the exact timing can vary based on your browser and Tampermonkey version.
+
 ## Getting Started
 
 Once installed, the `rwk2excel` add-on will be available whenever you're navigating through Race War Kingdoms maps. Look for the "Export to Excel" button or similar interface elements added by the script to start exporting your maps.
