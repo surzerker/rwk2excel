@@ -6,7 +6,6 @@
 
 - **Easy Export:** With just one click, export RWK maps to an Excel spreadsheet.
 - **Seamless Integration:** Works directly within your browser as a Tampermonkey script.
-- **Custom Hosting:** Option to host your own script for enhanced security.
 
 ## Installation Guide
 
