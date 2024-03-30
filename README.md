@@ -23,6 +23,8 @@ Before installing the `rwk2excel` add-on, ensure you have Tampermonkey installed
    - Under "URL", paste the link below to the `rwk2excel` script and click on the “Import” button:
          `https://surzerker.github.io/rwk2excel/RWK%20Map%20to%20Excel-1.4.user.js`
    - Tampermonkey will prompt you to review the script. After reviewing, click "Install" to add the script to your browser.
+   - Upon your first visit to the RWK map page, a screen will come up saying "A userscript wants to access a cross-origin resource." You should click "Always Allow" near the bottom left of the screen.
+
 
 ## Security Guarantees
 
